@@ -6,9 +6,9 @@
       "properties": {
         "name": "India Border"
       },
-      "geometries": {
+      "geometry": {
         "type": "LineString",
-              "coordinates": [
+        "coordinates": [
             [
               73.96317625502033,
               30.422175097726605
@@ -30135,7 +30135,7 @@
               26.495255455689936
             ]
           ]
-        }
       }
-    ]
-  }
+    }
+  ]
+}
